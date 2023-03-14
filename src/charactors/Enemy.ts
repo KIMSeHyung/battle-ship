@@ -1,4 +1,4 @@
-import Charactor from "../interfaces/Charactor";
+import Charactor from "../common/Charactor";
 
 class Enemy extends Charactor {
     constructor(

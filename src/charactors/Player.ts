@@ -1,4 +1,4 @@
-import Charactor from "../interfaces/Charactor";
+import Charactor from "../common/Charactor";
 
 class Player extends Charactor {
     constructor(
